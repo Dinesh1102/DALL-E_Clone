@@ -70,7 +70,7 @@ const CreatePost = () => {
     <section className='max-w-7xl mx-auto'>
       <div>
         <h1 className='font-extrabold text-[#222338] text-[32px]'>Create new post</h1>
-        <p className='mt-2 text-[#666e75] text-[16px] max-w-[500px]'>Create collection of imaginative and stunning images using DALL-E AI</p>
+        <p className='mt-2 text-[#666e75] text-[16px] max-w-[500px]'>Create collection of imaginative images using DALL-E AI</p>
       </div>
       <form className='mt-16 max-w-3xl' onSubmit={handleSubmit} action="">
         <div className='flex flex-col gap-5'>
@@ -91,7 +91,7 @@ const CreatePost = () => {
         </div>
         <div className='mt-5 flex gap-5'>
           <button type='button' onClick={generateImage} className='text-white bg-[#2D4356] font-medium rounded-md text-sm w-full sm:w-auto px-5 py-2.5 text-center'>
-            {generatingImg?'Generating images....':'Generate images'}
+            {generatingImg?'Generating image....':'Generate image'}
           </button>
         </div>
         <div className='mt-10 '>
