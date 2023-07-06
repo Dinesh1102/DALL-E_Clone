@@ -16,7 +16,7 @@ This starts the frontend of web application
 * Create a new project and add new database to it in <a href="https://cloud.mongodb.com/v2#/org/64a12500e3797d3fc13ebdd6/projects">MongoDB Atlas</a>
 * Create a new terminal
 * Create a new .env file in server folder as follows:
-<img src="client/src/assets/env.png" width="500">
+![ScreenShot](/client/env.png)
 
 *  ```cd .\client\```
 *  ```npm install```
