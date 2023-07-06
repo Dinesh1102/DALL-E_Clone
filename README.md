@@ -17,6 +17,7 @@ This starts the frontend of web application
 * Create a new terminal
 * Create a new .env file in server folder as follows:
 <img src="client/src/assets/env.png" width="500">
+
 *  ```cd .\client\```
 *  ```npm install```
 *  ```npm start```
