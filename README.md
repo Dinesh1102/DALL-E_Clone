@@ -14,11 +14,11 @@ This starts the frontend of web application
 
 * Create new API Keys in <a href="https://platform.openai.com/account/api-keys">OpenAI</a> and <a href="https://console.cloudinary.com/console/c-62ee3051d05817486e68ae1594bc9d">Cloudinary</a>
 * Create a new project and add new database to it in <a href="https://cloud.mongodb.com/v2#/org/64a12500e3797d3fc13ebdd6/projects">MongoDB Atlas</a>
-* Create a new terminal
 * Create a new .env file in server folder as follows:
   
 ![ENV](/client/src/assets/env.png)
 
+* Create a new terminal
 *  ```cd .\client\```
 *  ```npm install```
 *  ```npm start```
