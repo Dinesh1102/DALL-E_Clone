@@ -19,7 +19,7 @@ This starts the frontend of web application
 ![ENV](/client/src/assets/env.png)
 
 * Create a new terminal
-*  ```cd .\client\```
+*  ```cd .\server\```
 *  ```npm install```
 *  ```npm start```
 
